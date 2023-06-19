@@ -24,7 +24,6 @@ zsh
 ---
 
 #### LSD
-
 **Instructions to install LSD, a modern replacement for the ls command, on your system**:
 
 1. Download the `.deb` file from the official LSD repository on GitHub: [Download LSD](https://github.com/lsd-rs/lsd/releases)
