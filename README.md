@@ -37,7 +37,7 @@ sudo dpkg --install [File.deb]
 
 #### Batcat
 
-**Instructions to install Batcat, an improved alternative to the cat command**:
+**Instructions to install Batcat, an improved alternative to the cat command**: [Download Batcat](https://github.com/sharkdp/bat/releases)
 
 1. Download the `.deb` file from the official Batcat repository on GitHub:
 
