@@ -83,13 +83,8 @@ alias catnl='/bin/bat --paging=never'
 
 ---
 
-**If you have any further questions or need assistance with the ZSH customization described in this guide, please feel free to reach out to me, G3kSec. I'll be glad to help you.**
+**If you have any further questions or need assistance with the ZSH customization described in this guide, please feel free to reach out to me, Luciano Griffa. I'll be glad to help you.**
 
-```
-██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
-██╔══██╗╚██╗ ██╔╝    ██╔════╝ ╚════██╗██║ ██╔╝██╔════╝██╔════╝██╔════╝
-██████╔╝ ╚████╔╝     ██║  ███╗ █████╔╝█████╔╝ ███████╗█████╗  ██║     
-██╔══██╗  ╚██╔╝      ██║   ██║ ╚═══██╗██╔═██╗ ╚════██║██╔══╝  ██║     
-██████╔╝   ██║       ╚██████╔╝██████╔╝██║  ██╗███████║███████╗╚██████╗
-╚═════╝    ╚═╝        ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
-```
+---
+
+**By Luciano Griffa | 2023**
