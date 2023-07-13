@@ -87,4 +87,4 @@ alias catnl='/bin/bat --paging=never'
 
 ---
 
-**By G3kSec | 2023**
+**By Luciano Griffa | 2023**
